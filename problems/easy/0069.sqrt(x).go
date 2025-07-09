@@ -1,4 +1,4 @@
-package problems
+package easy
 
 func MySqrt(x int) int {
 	if x == 0 || x == 1 {

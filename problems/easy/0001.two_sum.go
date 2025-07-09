@@ -1,4 +1,4 @@
-package problems
+package easy
 
 func TwoSum(nums []int, target int) []int {
 	res := make(map[int]int)
